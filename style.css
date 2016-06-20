@@ -9,14 +9,14 @@ body{
 	border-radius:5px;
 
 }
-.nav h3{
+.nav h2{
 	display:inline-block;
 	color:white;
 	margin-top:10px;
 	margin-left:200px;
 	font-family: Verdana;
 }
-.nav h5{
+.nav h4{
 	display:inline-block;
 	color: teal;
 	margin-top:10px;
