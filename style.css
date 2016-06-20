@@ -1,0 +1,93 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.nav{
+	background-color: #1a1a1a;
+	width:100%;
+	height:40px;
+	border-radius:5px;
+
+}
+.nav h3{
+	display:inline-block;
+	color:white;
+	margin-top:10px;
+	margin-left:200px;
+	font-family: Verdana;
+}
+.nav h5{
+	display:inline-block;
+	color: teal;
+	margin-top:10px;
+	margin-left:5px;
+	font-family: Verdana;
+}
+
+ul{
+	/*width:50%;*/
+	margin-top:0px;
+	margin-right:100px;
+	padding:0px;
+	float:right;
+}
+ul li{
+	display:block;
+	float:right;
+	padding-top: 11px;
+
+}
+#getimages{
+	background-color: teal;
+	color:white;
+	border: none;
+	font-family: Verdana;
+}
+#searchimages{
+	border:none;
+	font-family: Verdana;
+	color: grey;
+}
+#images{
+	margin-top:45px;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#images img{
+	display:inline-block;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+#images div h4{
+	font-family: Verdana;
+	padding:0px;
+	color:white;
+	width:80%;
+	text-align:center;
+	font-size: 15px;
+	margin-top:-2%;
+	background-color: teal;
+}
+#images div{
+	width:20%;
+	display:inline-block;
+}
+ p{
+	text-align: center;
+	padding-bottom:10px;
+}
+ p a{
+	text-decoration:none;
+	font-family:Arial;
+	color:black;
+}
+
+.validation {
+	clear: left;
+	text-align: center;
+	padding-top: 10px;
+}
